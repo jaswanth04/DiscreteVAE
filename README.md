@@ -1,6 +1,6 @@
 ## Discrete VAE
 
-For more information on DiscreteVAE, please visit this medium article. (Link to be updated)
+For more information on DiscreteVAE, please visit this [medium article](https://medium.com/@jaswanth04/discrete-variational-auto-encoder-explained-41493ebe294d)
 
 ## Training
 
